@@ -1,6 +1,6 @@
 # Image Steganography Tool
 
-https://github.com/7thSamurai/steganography
+ORIGINAL: https://github.com/7thSamurai/steganography
 
 Simple C++ **Encryption** and **Steganography** tool that uses Password-Protected-Encryption to secure a file's contents, and then proceeds to embed it 
 insde an image's pixel-data using Least-Significant-Bit encoding. For Linux, MacOS, and Windows systems.
