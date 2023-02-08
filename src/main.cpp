@@ -4,10 +4,11 @@
 #include <algorithm>
 #include <array>
 
+
 #include "../ext/argparse/argparse.hpp"
 #include "aes.hpp"
 #include "sha256.hpp"
-#include "crc32.hpp"
+#include "crc32a.hpp"
 #include "random.hpp"
 #include "image.hpp"
 #include "utils.hpp"

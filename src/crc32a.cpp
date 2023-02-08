@@ -1,4 +1,4 @@
-#include "crc32.hpp"
+#include "crc32a.hpp"
 
 static const std::uint32_t crc_table[256] = {
     0x00000000, 0x77073096, 0xee0e612c, 0x990951ba,
