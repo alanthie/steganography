@@ -1,1 +1,3 @@
-todo
+stegano.exe encode -i img.png -e msg.txt -o out_image.png
+stegano.exe decode -i out_image.png -o image_decoded.txt
+
