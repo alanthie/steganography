@@ -184,7 +184,7 @@
 	<string>
 	<memory>
 
-1675895449 source:/home/server/dev/steganography/src/main.cpp
+1675900833 source:/home/server/dev/steganography/src/main.cpp
 	<iostream>
 	<fstream>
 	<filesystem>
@@ -193,7 +193,7 @@
 	"../ext/argparse/argparse.hpp"
 	"aes.hpp"
 	"sha256.hpp"
-	"crc32.hpp"
+	"crc32a.hpp"
 	"random.hpp"
 	"image.hpp"
 	"utils.hpp"
@@ -240,4 +240,11 @@
 	<sstream>
 	<iomanip>
 	<algorithm>
+
+1675900833 source:/home/server/dev/steganography/src/crc32a.cpp
+	"crc32a.hpp"
+
+1675900833 /home/server/dev/steganography/src/crc32a.hpp
+	<cstdint>
+	<cstddef>
 
